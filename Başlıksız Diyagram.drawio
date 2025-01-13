@@ -293,15 +293,6 @@
         <mxCell id="jmnvyv142HXtohrhZZ56-6" value="Api Gateway" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;labelBackgroundColor=none;fontColor=#46495D;" parent="jmnvyv142HXtohrhZZ56-12" vertex="1">
           <mxGeometry y="120" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jmnvyv142HXtohrhZZ56-17" value="" style="group;labelBackgroundColor=none;fontColor=#46495D;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="792.25" y="-870" width="170" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="jmnvyv142HXtohrhZZ56-18" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#B2C9AB;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.web_server;labelBackgroundColor=none;fontColor=#46495D;" parent="jmnvyv142HXtohrhZZ56-17" vertex="1">
-          <mxGeometry x="34.47000000000003" width="101.05" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="jmnvyv142HXtohrhZZ56-19" value="OpusSecurity UI" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;labelBackgroundColor=none;fontColor=#46495D;" parent="jmnvyv142HXtohrhZZ56-17" vertex="1">
-          <mxGeometry y="120" width="170" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="jmnvyv142HXtohrhZZ56-21" value="" style="group;labelBackgroundColor=none;fontColor=#46495D;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="414" y="-220" width="160" height="160" as="geometry" />
         </mxCell>
@@ -796,6 +787,15 @@
               <mxPoint x="877" y="-590" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vg2zMJ8X74_pMtba4gdl-171" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="792.25" y="-870" width="170" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="jmnvyv142HXtohrhZZ56-18" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#B2C9AB;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.web_server;labelBackgroundColor=none;fontColor=#46495D;" parent="vg2zMJ8X74_pMtba4gdl-171" vertex="1">
+          <mxGeometry x="34.47000000000003" width="101.05" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jmnvyv142HXtohrhZZ56-19" value="Magnum Opus UI" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;labelBackgroundColor=none;fontColor=#46495D;" parent="vg2zMJ8X74_pMtba4gdl-171" vertex="1">
+          <mxGeometry y="120" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
