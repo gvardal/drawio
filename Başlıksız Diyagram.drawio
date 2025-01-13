@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.5">
   <diagram name="Sayfa -1" id="5Zbbx2BPK9jqPJLS6lxO">
-    <mxGraphModel dx="1434" dy="2010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2514" dy="2158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -328,7 +328,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vg2zMJ8X74_pMtba4gdl-1" value="ProjectTaskDatas" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="229" y="-890" width="240" height="420" as="geometry" />
+          <mxGeometry x="229" y="-980" width="240" height="420" as="geometry" />
         </mxCell>
         <mxCell id="vg2zMJ8X74_pMtba4gdl-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="vg2zMJ8X74_pMtba4gdl-1">
           <mxGeometry y="30" width="240" height="30" as="geometry" />
@@ -500,7 +500,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vg2zMJ8X74_pMtba4gdl-41" value="KanbanTaskDatas" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="535" y="-890" width="240" height="300" as="geometry" />
+          <mxGeometry x="535" y="-980" width="240" height="300" as="geometry" />
         </mxCell>
         <mxCell id="vg2zMJ8X74_pMtba4gdl-42" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="vg2zMJ8X74_pMtba4gdl-41">
           <mxGeometry y="30" width="240" height="30" as="geometry" />
@@ -623,10 +623,126 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vg2zMJ8X74_pMtba4gdl-87" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Kanban Cards&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Kanban kartları proje içinde tanımlanan taskların gerçekleştirilmesi amacı ile oluşturulmuş zamanlı görevlerdir.&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Bu görevler proje üyelerine açılabileceği gibi proje ekibinde olmayan diğer kullanıcılara da açılabilir.&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Ayrıca kanban görevleri bir projeye bağlı olmadan da kullanıcılara açılabilir. Bunlar kısa zamanlı tamamlanması gereken günlük görevler kapsamındadır.&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Bir kullanıcıya bir görev atandığında kullanıcıya bir bilgilendirme mekanizması çalıştırılmalıdır.&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#B2C9AB;strokeColor=#788AA3;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="860" y="-900" width="420" height="350" as="geometry" />
+          <mxGeometry x="860" y="-990" width="420" height="350" as="geometry" />
         </mxCell>
         <mxCell id="vg2zMJ8X74_pMtba4gdl-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" edge="1" parent="1" source="vg2zMJ8X74_pMtba4gdl-51" target="vg2zMJ8X74_pMtba4gdl-87">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vg2zMJ8X74_pMtba4gdl-89" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Project Tasks&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Oluşturulmak istenilen projeler, daha önceden oluşturulan taslak bir proje planından kopyalanarak oluşturulabilir. Proje Taslağı oluşturulurken projenin taslak ismi kullanıcıdan alınır, taslak dan kopyalama yapılırken gerçek proje ismi değiştirilmelidir. Alt proje görevleri açılmalı ve opsiyonel olarak proje üyeleri atanabilir. Proje taslaklarına proje görevlerine ait taslak zaman dilimleri girilmeli, kopyalama sırasında projenin başlangıç tarihi alınarak diğer tüm alt kırılımlar başlangıç tarihine göre takvimlendirilmelidir.&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#B2C9AB;strokeColor=#788AA3;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="-990" width="420" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="vg2zMJ8X74_pMtba4gdl-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#788AA3;fontColor=default;fillColor=#B2C9AB;labelBackgroundColor=none;" edge="1" parent="1" source="vg2zMJ8X74_pMtba4gdl-32" target="vg2zMJ8X74_pMtba4gdl-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vg2zMJ8X74_pMtba4gdl-91" value="ProjectDraftDatas" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-550" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="vg2zMJ8X74_pMtba4gdl-92" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="vg2zMJ8X74_pMtba4gdl-91">
+          <mxGeometry y="30" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vg2zMJ8X74_pMtba4gdl-93" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="vg2zMJ8X74_pMtba4gdl-92">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vg2zMJ8X74_pMtba4gdl-94" value="TaskId (int)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="vg2zMJ8X74_pMtba4gdl-92">
+          <mxGeometry x="30" width="210" height="30" as="geometry">
+            <mxRectangle width="210" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vg2zMJ8X74_pMtba4gdl-95" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="vg2zMJ8X74_pMtba4gdl-91">
+          <mxGeometry y="60" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vg2zMJ8X74_pMtba4gdl-96" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="vg2zMJ8X74_pMtba4gdl-95">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vg2zMJ8X74_pMtba4gdl-97" value="TaskName (string)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="vg2zMJ8X74_pMtba4gdl-95">
+          <mxGeometry x="30" width="210" height="30" as="geometry">
+            <mxRectangle width="210" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vg2zMJ8X74_pMtba4gdl-98" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="vg2zMJ8X74_pMtba4gdl-91">
+          <mxGeometry y="90" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vg2zMJ8X74_pMtba4gdl-99" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="vg2zMJ8X74_pMtba4gdl-98">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vg2zMJ8X74_pMtba4gdl-100" value="StartDate (DateTime)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="vg2zMJ8X74_pMtba4gdl-98">
+          <mxGeometry x="30" width="210" height="30" as="geometry">
+            <mxRectangle width="210" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vg2zMJ8X74_pMtba4gdl-104" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="vg2zMJ8X74_pMtba4gdl-91">
+          <mxGeometry y="120" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vg2zMJ8X74_pMtba4gdl-105" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="vg2zMJ8X74_pMtba4gdl-104">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vg2zMJ8X74_pMtba4gdl-106" value="Duration (string)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="vg2zMJ8X74_pMtba4gdl-104">
+          <mxGeometry x="30" width="210" height="30" as="geometry">
+            <mxRectangle width="210" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vg2zMJ8X74_pMtba4gdl-110" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="vg2zMJ8X74_pMtba4gdl-91">
+          <mxGeometry y="150" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vg2zMJ8X74_pMtba4gdl-111" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="vg2zMJ8X74_pMtba4gdl-110">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vg2zMJ8X74_pMtba4gdl-112" value="ParentId (int?)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="vg2zMJ8X74_pMtba4gdl-110">
+          <mxGeometry x="30" width="210" height="30" as="geometry">
+            <mxRectangle width="210" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vg2zMJ8X74_pMtba4gdl-113" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="vg2zMJ8X74_pMtba4gdl-91">
+          <mxGeometry y="180" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vg2zMJ8X74_pMtba4gdl-114" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="vg2zMJ8X74_pMtba4gdl-113">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vg2zMJ8X74_pMtba4gdl-115" value="SubTasks (List&amp;lt;TaskData&amp;gt;)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="vg2zMJ8X74_pMtba4gdl-113">
+          <mxGeometry x="30" width="210" height="30" as="geometry">
+            <mxRectangle width="210" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vg2zMJ8X74_pMtba4gdl-116" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="vg2zMJ8X74_pMtba4gdl-91">
+          <mxGeometry y="210" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vg2zMJ8X74_pMtba4gdl-117" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="vg2zMJ8X74_pMtba4gdl-116">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vg2zMJ8X74_pMtba4gdl-118" value="Predecessor (string)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="vg2zMJ8X74_pMtba4gdl-116">
+          <mxGeometry x="30" width="210" height="30" as="geometry">
+            <mxRectangle width="210" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vg2zMJ8X74_pMtba4gdl-131" value="ProjectDocuments" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="229" y="-1070" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vg2zMJ8X74_pMtba4gdl-132" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="vg2zMJ8X74_pMtba4gdl-131">
+          <mxGeometry y="30" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vg2zMJ8X74_pMtba4gdl-133" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="vg2zMJ8X74_pMtba4gdl-132">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vg2zMJ8X74_pMtba4gdl-134" value="TaskId (int)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="vg2zMJ8X74_pMtba4gdl-132">
+          <mxGeometry x="30" width="210" height="30" as="geometry">
+            <mxRectangle width="210" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
