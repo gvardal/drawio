@@ -622,6 +622,9 @@
         <mxCell id="vg2zMJ8X74_pMtba4gdl-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vg2zMJ8X74_pMtba4gdl-2" target="vg2zMJ8X74_pMtba4gdl-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="vg2zMJ8X74_pMtba4gdl-86" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;div&gt;Oluşturulan Kanban kartları bir projeye&amp;nbsp;&lt;div&gt;bağlı olarak&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;oluşturulabileceği gibi, proje bağımsız günlük görevler şeklinde de oluşturulabilir&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;textShadow=0;verticalAlign=top;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="765" y="-1100" width="340.83" height="210" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
